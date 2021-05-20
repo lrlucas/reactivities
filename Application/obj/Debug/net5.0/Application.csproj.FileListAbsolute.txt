@@ -1,0 +1,17 @@
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Application.dll
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Application.pdb
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Domain.dll
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Persistence.pdb
+D:\netcore_and_react\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.dll
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
+D:\netcore_and_react\Reactivities\Application\obj\Debug\net5.0\Application.pdb

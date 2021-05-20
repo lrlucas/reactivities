@@ -1,0 +1,12 @@
+D:\netcore_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\netcore_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+D:\netcore_and_react\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\netcore_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\netcore_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
